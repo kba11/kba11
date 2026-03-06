@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello   
+I am Abdelkader, a Data Analyst 📈 
 
+Who Can Help You With Your Row Data and Give You the Right Vision for Your Messy Data 📊  
+
+I use tools like :
+- Python (Pandas, Numpy, Matplotlib) 🐍 
+- Power BI
+- Advance Excel
+
+Feel free to check my project ⚒️
 <!--
 **kba11/kba11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
