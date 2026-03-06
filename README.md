@@ -3,7 +3,7 @@ I am Abdelkader, a Data Analyst 📈
 
 Who Can Help You With Your Row Data and Give You the Right Vision for Your Messy Data 📊  
 
-I use tools like :
+## Tools 
 - Python (Pandas, Numpy, Matplotlib) 🐍 
 - Power BI
 - Advance Excel
